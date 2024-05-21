@@ -1,0 +1,86 @@
+.row-1 {
+  height: 180px;
+  border-width: 3px;
+  padding-top: 50px;
+}
+
+.box-color-1 {
+  background: aqua;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.box-color-2 {
+  background: grey;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.box-color-3 {
+  background: rgb(219, 219, 196);
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.box-color-4 {
+  background: red;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+/* segunda fila de contenedores */
+
+.row-2 {
+  height: 400px;
+  border-width: 3px;
+}
+
+.div-2-box-color-1 {
+  background: #bcb76a;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.div-2-box-color-2 {
+  background: green;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.div-2-box-color-3 {
+  background: aqua;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+/* tercera fila de contenedores */
+
+.row-3 {
+  height: 210px;
+  border-width: 3px;
+}
+
+.div-3-box-color-1 {
+  background: grey;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.div-3-box-color-2 {
+  background: yellow;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.imagen-2 {
+  border-radius: 80px;
+}
